@@ -1,4 +1,4 @@
 - 👋 Hello World, I’m @santiroldan
-- 👀 I’m interested in Web (front-end / back-end) and Mobile development
+- 👀 I’m interested in Web Development (Front-end / Back-end).
 - 🌱 I’m currently learning Angular and Node.js
 - 📫 How to reach me ➜ https://linktr.ee/_sroldan
