@@ -1,0 +1,39 @@
+# Descripción de la Merge Request
+
+## Cambios Realizados
+- [ ] **Funcionalidad Añadida:** Breve descripción de la nueva funcionalidad.
+- [ ] **Correcciones de Errores:** Detalles sobre las correcciones de errores realizadas.
+- [ ] **Mejoras de Rendimiento:** Si aplicable, describe mejoras en el rendimiento.
+- [ ] **Cambios de Diseño:** Explica los cambios en el diseño, si los hay.
+
+## Problema Relacionado
+[Enlace al problema o tarea relacionada en el sistema de seguimiento de problemas]
+
+## Capturas de Pantalla (si es aplicable)
+Adjunta capturas de pantalla para visualizar los cambios.
+
+## Cambios en la Configuración (si es aplicable)
+- [ ] **Configuración del Sistema:** Descripción de los cambios en la configuración del sistema.
+- [ ] **Dependencias Actualizadas:** Lista de las dependencias que se han actualizado.
+
+## Pruebas Realizadas
+- [ ] **Pruebas Unitarias:** Descripción de las pruebas unitarias realizadas.
+- [ ] **Pruebas de Integración:** Detalles sobre las pruebas de integración.
+- [ ] **Pruebas de Regresión:** Descripción de las pruebas de regresión realizadas.
+
+## Comprobaciones Adicionales
+- [ ] **Cumplimiento del Estilo de Código:** Verificación del cumplimiento del estilo de código.
+- [ ] **Revisión del Código:** Confirmación de que el código ha sido revisado por otro miembro del equipo.
+
+## Observaciones Adicionales
+Cualquier comentario adicional o información relevante.
+
+## Tareas Pendientes
+- [ ] Lista de tareas pendientes que deben abordarse después de la fusión.
+
+## Información Adicional (si es necesaria)
+Cualquier otra información relevante.
+
+## Relacionado
+- **Issue:** #[Número del Problema o Tarea Relacionada]
+- **MR:** ![Enlace a esta MR]
